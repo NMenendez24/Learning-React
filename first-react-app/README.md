@@ -1,0 +1,1 @@
+This contains a very simple aside section for follow accounts like the one we have in twitter, **ONLY VISUAL**
